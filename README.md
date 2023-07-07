@@ -1,6 +1,8 @@
 ### Hi, I'm Valeria Garcia
 
+📚 Computing Engineering student at UNLP 
 
+➡️ Currently learning about Java, C and Assembly
 
 
 <!--
