@@ -2,8 +2,6 @@
 
 📚 Computing Engineering student at UNLP 
 
-➡️ Currently learning about Java, C and Assembly
-
 
 <!--
 **valemicolgarcia/valemicolgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
