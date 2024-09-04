@@ -11,7 +11,6 @@
 ### Some facts about me 💫
 - 💻 Computer Engineering Student at UNLP
 - 🧠 Very excited about Machine Learning
-- 🔍Currently learning about Deep learning and NLP
 - 🛼 I love artistic skating
 
 
@@ -52,9 +51,6 @@
   </tr>
 </table>
 
-### GitHub Stats:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valemicolgarcia&layout=compact&theme=radical)
 
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
