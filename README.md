@@ -7,9 +7,8 @@ El último año estuve trabajando como investigadora desarrollando un framework 
 
 Hoy busco sumarme a un equipo que me haga crecer como persona y profesional, aplicando **AI y Data** para resolver desafíos reales y construir soluciones que impacten positivamente en la vida de las personas.
 
-## Mis Proyectos Destacados
+## Mis Proyectos 
 
-Aquí están los proyectos en los que más orgullosa estoy – desde agentes GenAI productivos hasta investigación aplicada en salud.
 
 <div align="center">
   <table>
