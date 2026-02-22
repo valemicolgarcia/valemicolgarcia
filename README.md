@@ -1,4 +1,4 @@
-# ¡Hola! Soy Vale García 👋
+# Hola! Soy Valeria García 
 
 Me dicen Vale, tengo 22 años y me falta una sola materia para recibirme de **Ingeniera en Computación** en la **Universidad Nacional de La Plata (UNLP)**.
 
