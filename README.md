@@ -12,8 +12,6 @@ Hoy busco sumarme a un equipo que me permita crecer profesionalmente, aplicando 
 
 ## Mis Proyectos Destacados
 
-Aquí están los proyectos que más me representan, desde agentes GenAI productivos hasta investigación aplicada en salud:
-
 - **🍎 Nutrition Label Agent**  
 
   Agente agéntico que analiza etiquetas nutricionales con visión multimodal. Usa LangChain, LangGraph, Gemini Vision y Tavily para generar feedback nutricional y recomendaciones de alternativas. Todo orquestado y expuesto como API productiva en FastAPI con Pydantic.
