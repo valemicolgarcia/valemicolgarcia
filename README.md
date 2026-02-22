@@ -1,12 +1,14 @@
 # Hola! Soy Valeria García 
 
-Me dicen Vale, tengo 22 años y me falta una sola materia para recibirme de **Ingeniera en Computación** en la **Universidad Nacional de La Plata (UNLP)**.
+Me dicen Vale, tengo 22 años y me falta una sola materia para recibirme de Ingeniera en Computación en la Universidad Nacional de La Plata (UNLP).
 
-El último año estuve trabajando como investigadora desarrollando un framework en Python para ayudar a personas con diabetes usando **Machine Learning**. Me encanta aprender sobre salud y, sobre todo, cómo la **IA** potencia y acelera la capacidad de mejorar la vida de los demás y la mía también. Además de investigar, fui **ayudante de cátedra** en **Programación II**.
+El último año trabajé como investigadora en LEICI-UNLP desarrollando un framework en Python con Machine Learning para procesar datos fisiológicos multimodales en personas con Diabetes Tipo 1 (pipeline end-to-end con Random Forest, fusión de datos, procesamiento de señales y aumento de datos; precisión 0.78 en clasificación de estrés y ejercicio en entornos reales).
 
-Desde chica aprendí que la disciplina mata todo: fui **campeona argentina de patín artístico**, y cuando dejé, puse toda esa energía y constancia en lo profesional. Ese deporte formó los valores que hoy tengo como persona y definió mi forma de abordar los problemas. También hablo inglés fluido (TOEFL iBT B2 + FCE Cambridge) y siempre busco formas de seguir aprendiendo.
+También fui ayudante de cátedra en Programación II (recursión, estructuras de datos no lineales como árboles y gestión de memoria).
 
-Hoy busco sumarme a un equipo que me haga crecer como persona y profesional, aplicando **AI y Data** para resolver desafíos reales y construir soluciones que impacten positivamente en la vida de las personas.
+Hablo inglés fluido (TOEFL iBT B2 + FCE Cambridge) y sigo formándome continuamente en AI, Data Science, Machine Learning y Backend.
+
+Hoy busco sumarme a un equipo que me permita crecer profesionalmente, aplicando **AI y Data** para resolver desafíos reales y construir soluciones de impacto.
 
 ## Mis Proyectos Destacados
 
