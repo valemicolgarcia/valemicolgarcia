@@ -1,6 +1,6 @@
 # Valeria García
 
-Computer Engineer (UNLP) with a passion for Artificial Intelligence and its applications. Currently working as an AI Engineer at [Kleva](https://github.com/klevaco), building voice agent infrastructure and production AI systems.
+Computer Engineer (UNLP) with a passion for Artificial Intelligence and its applications. Currently working as an AI Engineer at Kleva, building voice agent infrastructure and production AI systems.
 
 Previously: ML research on physiological signals for type 1 diabetes at LEICI-UNLP, and teaching assistant for Programming II.
 
